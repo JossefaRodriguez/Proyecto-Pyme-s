@@ -1,6 +1,7 @@
-#Proyecto Pyme´sProyecto-Pyme-s
+# Proyecto Pyme´s
 
-##REQUERIMIENTOS
+
+REQUERIMIENTOS
 
 - Llevar un control de los registro de entradas.
 - Llevar un control de los registro de asignación a trabajador.
